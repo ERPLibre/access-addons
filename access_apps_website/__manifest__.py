@@ -15,5 +15,5 @@
     "data": ["views/access_apps.xml", "views/assets.xml"],
     "demo": [],
     "installable": True,
-    "auto_install": True,
+    "auto_install": False,
 }
